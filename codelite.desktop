@@ -1,0 +1,9 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=codelite
+Exec=codelite %f
+Icon=/usr/share/codelite/images/cubes.png
+Terminal=false
+Type=Application
+Categories=Development;
+StartupNotify=true
