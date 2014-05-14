@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=WingIDE
+Exec=wing5.0 %f
+Icon=/usr/lib/wingide5/resources/wing32.png
+Terminal=false
+Type=Application
+Categories=Development;
+StartupNotify=true
+MimeType=application/x-wing-ide-project;
+
